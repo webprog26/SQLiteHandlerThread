@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThreadsTech</string>
+    <string name="consumer_name_hint">Consumer name</string>
+    <string name="consumer_cash_hint">Consumer cach</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_data">Data cannot be empty</string>
+    <string name="consumer_addition">New consumer addition</string>
+    <string name="consumer_name">Name: %s</string>
+    <string name="consumer_cash">Cash: %d</string>
+</resources>
